@@ -40,7 +40,7 @@ Whether you're here to share your passions, engage in thought-provoking conversa
 3. Navigate to the project directory:
 
     ```
-    cd flutter-app
+    cd Blog-app-Flutter
     ```
 
 4. Run the following command to get the dependencies:
